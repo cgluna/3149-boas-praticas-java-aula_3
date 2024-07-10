@@ -4,7 +4,6 @@ import br.com.alura.client.ClientHttpConfiguration;
 import br.com.alura.domain.Pet;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
