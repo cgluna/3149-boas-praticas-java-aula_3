@@ -6,5 +6,5 @@ Projeto se trata de um programa que representa um sistema de gestão de uma rede
 
 1. Realização de refatoração de código usando conceitos do princípio SOLID
 2. Testes unitários com Junit e Mockito
-3. Bibliotecas e APIs como Stream, Jackson-databind, HttpClient (...)
+3. Bibliotecas e APIs como Stream, Jackson-databind e HttpClient
 4. Utilização de padrões de projeto como Command e Strategy
