@@ -1,5 +1,7 @@
 # Repositorio de estudo sobre Java e refatoração pelo curso da Alura
 
+Projeto se trata de um programa que representa um sistema de gestão de uma rede de canis, onde podem ser cadastrados tanto os abrigos quanto os seus respecctivos pets e também listá-los.
+
 ### Conteúdos abordados no curso e aplicados no projeto:
 
 1. Realização de refatoração de código usando conceitos do princípio SOLID
