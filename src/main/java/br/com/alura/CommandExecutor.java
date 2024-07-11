@@ -2,7 +2,7 @@ package br.com.alura;
 
 public class CommandExecutor {
 
-    public void executor (Command command){
+    public void executeCommand (Command command){
         command.execute();
     }
 }
